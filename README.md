@@ -2,8 +2,7 @@
 
 Mon tout premier site web, réalisé en **mai 2026**, au moment où je découvrais la programmation.
 
-C'est un petit site de voyage qui présente quelques destinations (Londres, New York, Rome, Chicago, Louxor) et propose des outils pour préparer un départ. Je l'ai construit pour m'exercer à HTML et CSS, puis pour écrire mes toutes premières lignes de JavaScript.
-
+Je l'ai construit pour m'exercer à HTML et CSS, puis pour écrire mes toutes premières lignes de JavaScript.
 ## Pourquoi je le publie
 
 Ce projet n'est pas une vitrine finie : je le publie pour montrer mes débuts et la progression qui a suivi. Le code est laissé tel que je l'avais écrit à l'époque, avec ses maladresses et ses pages inachevées.
