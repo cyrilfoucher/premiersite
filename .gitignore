@@ -1,0 +1,9 @@
+# Fichiers système macOS
+.DS_Store
+
+# Réglages de l'éditeur
+.vscode/
+*.code-workspace
+
+# Ancienne copie du site, conservée en local uniquement
+site1/
